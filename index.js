@@ -20,3 +20,4 @@ console.log(String(num).length);
 
 
 //Experiment! What if num could be EITHER an integer or a decimal?  Add an if/else statement so your code can handle both cases.
+
